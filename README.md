@@ -26,8 +26,17 @@ The <b>Reset Option</b>, when clicked, should remove all of the candidates. Make
 
 The <b>Quit Option</b>, when clicked, should quit the program. Subsequent runs of the program should start freshly, with no candidates in the list of candidates.
 
-!http://imgur.com/a/ILHsq
-
-!http://imgur.com/a/fDzH0
-
-!http://imgur.com/c4929o9
+<p align="center">
+  <h3>Pie Chart view</h3>
+  <img src="/example1.PNG" />
+  
+  <br>
+  
+  <h3>Bar Chart view</h3>
+  <img src="/example2.PNG" />
+  
+  <br>
+  
+  <h3>Candidates can be deleted after addition</h3>
+  <img src="/example3.PNG" />
+</p>
