@@ -33,6 +33,7 @@ The <b>Quit Option</b>, when clicked, should quit the program. Subsequent runs o
   <br>
   
   <h3>Bar Chart view</h3>
+  <p>(Really should have made the tick marks white...</p>
   <img src="/example2.PNG" />
   
   <br>
