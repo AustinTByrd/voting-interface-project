@@ -25,3 +25,9 @@ The <b>Delete Candidate Option</b> should allow the user to select an existing c
 The <b>Reset Option</b>, when clicked, should remove all of the candidates. Make sure that both charts no longer have any candidates in them, and that the list of candidates that could be deleted would now be empty.
 
 The <b>Quit Option</b>, when clicked, should quit the program. Subsequent runs of the program should start freshly, with no candidates in the list of candidates.
+
+!http://imgur.com/a/ILHsq
+
+!http://imgur.com/a/fDzH0
+
+!http://imgur.com/c4929o9
